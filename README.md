@@ -11,10 +11,10 @@ Aşağıda açıkça belirtilmiş alanda tırnak içindeki alana sevdiğiniz ki�
 ```
 
 ## Ekran Görüntüleri
-<img src="https://github.com/Turkmen48/Get_Gif_WithApi_Flutter/blob/main/screenshots/1.png/" width="500" height="700">
-<img src="https://github.com/Turkmen48/Get_Gif_WithApi_Flutter/blob/main/screenshots/2.png/" width="500" height="700">
-<img src="https://github.com/Turkmen48/Get_Gif_WithApi_Flutter/blob/main/screenshots/3.png/" width="500" height="700">
-<img src="https://github.com/Turkmen48/Get_Gif_WithApi_Flutter/blob/main/screenshots/4.png/" width="500" height="700">
+<img src="https://github.com/Turkmen48/Get_Gif_App_WithApi_Flutter/blob/main/screenshots/1.png" width="500" height="700">
+<img src="https://github.com/Turkmen48/Get_Gif_App_WithApi_Flutter/blob/main/screenshots/2.png" width="500" height="700">
+<img src="https://github.com/Turkmen48/Get_Gif_App_WithApi_Flutter/blob/main/screenshots/3.png" width="500" height="700">
+<img src="https://github.com/Turkmen48/Get_Gif_App_WithApi_Flutter/blob/main/screenshots/4.png" width="500" height="700">
 
 
 
